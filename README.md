@@ -5,7 +5,7 @@ Just modifiying more.
 Doing modification.
 ## Purpose
 
-Adding a line for rebasing example.
+Adding a line for rebasing example, more changes from my feature.
 ## Deployment
 Just modifiying more.
 
