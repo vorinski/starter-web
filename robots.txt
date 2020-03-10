@@ -3,4 +3,4 @@
 User-agent: *
 Nikola Vorinski Stevan Brankov
 
-Novi student
+Pera Peric
